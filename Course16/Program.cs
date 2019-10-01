@@ -8,6 +8,7 @@ namespace Course16
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia!");
+            Console.WriteLine("Como estas?");
 
             Console.ReadLine();
         }
